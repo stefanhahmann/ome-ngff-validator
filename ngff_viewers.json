@@ -35,7 +35,7 @@
       "name": "Fiji",
       "logo": "/fiji_zarr_logo.png",
       "href": "fiji://open/url?p=",
-      "html": "<p>Click the logo to open in a running Fiji (<a href='https://fiji.sc'>Fiji-Latest</a>) with the <a href='https://sites.imagej.net/OME-Zarr/'>OME-Zarr update site</a> enabled. Register <code>fiji://</code> links once via Edit > Options > Desktop... (<a href='https://github.com/BioImageTools/ome-zarr-fiji-java#fiji-links-fiji'>details</a>).</p><p>Or paste into Fiji: <code>{URL}</code></p>"
+      "html": "<p>Click the logo to open in a running Fiji (<a href='https://fiji.sc'>Fiji-Latest</a>) with the <a href='https://github.com/BioImageTools/ome-zarr-fiji-java#fiji-update-site'>OME-Zarr update site</a> enabled. Register <code>fiji://</code> links once via Edit > Options > Desktop... (<a href='https://github.com/BioImageTools/ome-zarr-fiji-java#fiji-links-fiji'>details</a>).</p><p>Or paste into Fiji: <code>{URL}</code></p>"
     }
   ]
 }
