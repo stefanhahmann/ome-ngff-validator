@@ -35,7 +35,7 @@
       "name": "Fiji",
       "logo": "/fiji_zarr_logo.png",
       "href": "fiji://open/url?p=",
-      "html": "<p>Opens the image in the Fiji registered for <code>fiji://</code> links. It is started if not running. Needs <a href='https://fiji.sc'>Fiji-Latest</a> with the <a href='https://github.com/BioImageTools/ome-zarr-fiji-java#fiji-update-site'>OME-Zarr update site</a>. Register links via <i>Edit > Options > Desktop...</i> (<a href='https://github.com/BioImageTools/ome-zarr-fiji-java#fiji-links-fiji'>details</a>). Or paste into Fiji: <code>{URL}</code></p>"
+      "html": "<p>Opens the image in the Fiji registered for <code>fiji://</code> links. Needs <a href='https://fiji.sc'>Fiji-Latest</a> with the <a href='https://github.com/BioImageTools/ome-zarr-fiji-java#fiji-update-site'>OME-Zarr update site</a>. <a href='https://github.com/BioImageTools/ome-zarr-fiji-java#fiji-links-fiji'>More info...</a></p>"
     }
   ]
 }
